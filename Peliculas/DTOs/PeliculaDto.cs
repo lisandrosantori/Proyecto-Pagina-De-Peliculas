@@ -14,11 +14,12 @@ namespace Peliculas.DTOs
         public string Resumen { get; set; }
         public string PosterLink { get; set; }
         public string Director { get; set; }
-        public List<ActorDto> Actores { get; set; }
-        public List<ComentarioDto> Comentarios { get; set; }
-        public GeneroDto Genero { get; set; }
+		public string TrailerLink { get; set; }
+		public GeneroDto Genero { get; set; }
+		public List<ActorDto> Actores { get; set; }
+        public List<ComentarioDto> Comentarios { get; set; }        
         public List<CineDto> Cines { get; set; }
         public List<CriticaDto> Criticas { get; set; }
-        public string TrailerLink { get; set; }
+        
     }
 }

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "pedXFp1gWrE0jQdS09lOw3gjD4he24SYJRbea00QnwwkwM+RrDOp8W5+TpkUpKEBL+mfZc96LNHZbs5U4h3Tkw==",
+  "dgSpecHash": "/ZDQ8meZkmERTo7kHIsfXi95Qip7U+oQATQ7VBFnCG1YDBnMisvYJomdR4lTqM0ds+LOBQkfw6CkHNJLUpTDEQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Lisandro\\OneDrive\\Escritorio\\peliculas-lisandrosantori\\peliculas-lisandrosantori\\Peliculas\\Peliculas.csproj",
+  "projectFilePath": "C:\\Users\\Lisandro\\fuentes\\Mis-proyectos\\GIT HUB\\Proyecto-Pagina-De-Peliculas-MVC\\Peliculas\\Peliculas.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Lisandro\\.nuget\\packages\\humanizer.core\\2.2.0\\humanizer.core.2.2.0.nupkg.sha512",
     "C:\\Users\\Lisandro\\.nuget\\packages\\messagepack\\2.1.152\\messagepack.2.1.152.nupkg.sha512",
